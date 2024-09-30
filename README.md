@@ -1,29 +1,30 @@
-<img width="100%" alt="TripShareLogo" src="https://drive.google.com/file/d/19DZ_8W0QtIpqWGCSCgcZgvO9mHVGEFKo/view?usp=sharing">
+<img width="100%" alt="363408354-54d0a264-b964-41f2-864d-dcb47e75df68-3" src="https://github.com/user-attachments/assets/fec592d0-25ca-401b-86d5-ec2c65bb05af">
 
 # 트립쉐어(TripShare) - 실시간 여행 커뮤니티 & 여행 계획 공유 애플리케이션
 #### 전세계 여행자들이 서로 연결되고, 새로운 사람들과 새로운 곳에서 만나 소통하며 함께 여행 계획을 세워보세요!
 
 
 <br><br>
-<img src="https://drive.google.com/file/d/1Fry13fCd8EVabw98lPsgj8Esmj3RZm3b/view?usp=sharing" width="80" />
+
+<img alt="361509299-b0678de7-3eb6-4871-8ffc-e3bce9c8aeda" src="https://github.com/user-attachments/assets/375b6986-58cd-489d-ac12-2721289521b4" width="80" />
 <b>혼자서 유럽 배낭여행을 계획중인 20대 대학생 김유리</b>
 
 > "혼자 유럽 여행을 떠나기로 했어요! 혼자서 여행을 떠나다보니 심심할 때도 있을 것 같은데.. 여행 하다가 제 일정과 맞는 분을 만나 맥주 한 잔 하고 싶은데 먼저 다가가긴 힘들고... 편하게 새로운 사람을 만날 수 있는 방법이 없을까요?"
 
 <br><br>
-<img src="https://drive.google.com/file/d/14A_w48URJfp0cDF64hi-Opc3dp_FrH6z/view?usp=sharing" width="80" />
+<img alt="361508886-5e0b3559-ea16-4b69-a9bf-8f7bbf8504dc" src="https://github.com/user-attachments/assets/feb5c4af-0bc3-4b07-a54c-3a010edd45f6" width="80" />
 <b>일본 도쿄에서 10년간 홀로 거주하고 있는 30대 직장인 카츠로</b>
 
 > "새로운 사람들을 만나는 걸 좋아해요. 반복되는 일상이 지루하고.. 퇴근 후에 혼자라 가끔 심심할 때가 있어요. 저희 도시에 여행오신 분들을 만나 맛집도 소개해주고 좋은 추억을 만들어 드리고 싶어요!! 지금 저희 도시를 여행 중인 여행객을 만날 수 있는 방법이 없을까요?"
 
 <br><br>
-<img src="https://drive.google.com/file/d/1KOrJ2ZvewkcEXKffHzC1TTyldjfmgQ-s/view?usp=sharing" width="80" />
+<img alt="361508882-41c5ed97-9d95-450d-8997-74c088cdf792" src="https://github.com/user-attachments/assets/3958c485-834e-4ce6-9e32-57445a5be5cf" width="80" />
 <b>직장인 친구와 함께 휴가를 맞춰 여행을 떠나는 20대 직장인 강미나</b>
 
 > "지친 일상에서 잠깐이라도 벗어나기 위해 친구와 여행을 떠나기로 했어요. 각자 일하느라 바쁘다보니 여행 계획을 짤 시간이 없어요 ㅠㅠ 어디서부터 계획을 세워야할지 막막하네요... 다른 사람들의 여행 계획을 참고하고 싶은데 여행 계획을 한눈에 볼 수 있는 곳 없을까요??"
 
 <br><br>
-<img src="https://drive.google.com/file/d/1BORqgdUw4VVyotmQe-mKYiB4Tzs64aKq/view?usp=sharing" width="80" />
+<img alt="361508875-3124f720-e3f8-4e8d-bffe-f471383de47e" src="https://github.com/user-attachments/assets/e48a492b-c44e-443b-82e7-42a5280ace25" width="80" />
 <b>프랑스 파리에 거주하며 레스토랑을 운영하고 있는 30대 가브리엘</b>
 
 > "외국인 친구를 사귀고 싶어요!! 저희 레스토랑에도 놀러오라고 초대하고 싶어요!! 저희 레스토랑을 홍보할 수 있는 매체가 있으면 좋을 것 같아요!!"
